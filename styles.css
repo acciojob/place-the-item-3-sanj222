@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	font-size:40px;
+}
+.div1{
+	background: red;
+	width: 100px;
+	height: 100px;
+}
+
+.div2{
+	background: blue;
+	width: 100px;
+	height: 100px;
+}
+
+.div3{
+	background: green;
+	width: 100px;
+	height: 100px;
+}
